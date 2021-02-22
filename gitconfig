@@ -1,0 +1,13 @@
+....
+....
+[alias]
+        s = status --short
+        co = checkout
+        fa = fetch --all
+        ri = rebase --interactive
+        up = push
+        rb = rebase
+        allhistory = !git log --oneline --graph --decorate --all 
+        history = !git log --oneline --graph --decorate
+....
+....
